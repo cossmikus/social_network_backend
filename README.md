@@ -2,6 +2,11 @@
 Implemented by: Kassymkhan Bolat 
 email: bolatkassymkhan@gmail.com
 
+# Do not forget to change .env.local to .env
+Otherwise code would not work. .env.local contains API for taking the coordinate of an address
+
+
+
 ## 🚀 Quick Start
 
 You'll need Docker and Docker Compose to run this application.
